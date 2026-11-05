@@ -4,7 +4,7 @@ A NewGRF that replaces OpenGFX sprites with 32bpp graphics rendered in Blender,
 in the style of the "Schienenwerk" map study: isometric low-poly look, soft
 light without hard shadows. Gameplay is unchanged. Licence: GPL v2.
 
-Currently covered (all climates unless noted; effects and disasters still OpenGFX):
+Covered (all climates unless noted):
 
 | Sprites   | Content |
 |-----------|---------|
